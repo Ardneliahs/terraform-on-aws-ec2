@@ -41,7 +41,7 @@ module "vpc" {
   }
 
   tags = {
-    Owner = "kalyan"
+    Owner = "shaigaut"
     Environment = "dev"
   }
 
